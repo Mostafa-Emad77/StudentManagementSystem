@@ -37,18 +37,8 @@ A comprehensive student management system with both command-line and graphical u
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/student-management-system.git
+   git clone https://github.com/Mostafa-Emad77/student-management-system.git
    cd student-management-system
-   ```
-
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   (Note: If there's no requirements.txt, install manually:)
-   ```bash
-   pip install pillow
    ```
 
 ## Usage
