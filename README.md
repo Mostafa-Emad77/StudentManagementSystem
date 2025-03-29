@@ -69,15 +69,6 @@ The GUI provides tabs for:
 - **Attendance**: Track student attendance
 - **Reports**: Generate various reports
 
-## Screenshots
-
-(Describe the main interface components since we can't include actual images)
-
-- **Main Dashboard**: Shows system statistics and quick access buttons
-- **Add Student Form**: Form fields for student details and contact information
-- **Student List**: Table view of all students with search functionality
-- **Attendance Tracking**: Interface to mark students present/absent by date
-- **Report Generation**: Panel to create and export various reports
 
 ## Dependencies
 
